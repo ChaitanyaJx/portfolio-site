@@ -48,11 +48,3 @@ If you’d like to contribute or improve this project, feel free to fork the rep
 
 ## 🙌 Show Your Support
 If you like this project, please star it and share it with your friends!
-
-## Contact
-If you have any questions or suggestions, feel free to reach out via:
-- **Email:** sathish31102004@gmail.com
-- **LinkedIn:** [@sathishk-dev](https://linkedin.com/in/sathishk-dev)
-
----
-Made with ❤️ by Sathish Kumar.
