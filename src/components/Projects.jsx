@@ -5,20 +5,19 @@ import { motion } from "framer-motion";
 const projects = [
   {
     id: 1,
-    title: "TerminalX - Enhanced Web Terminal",
+    title: "WebTermX - Enhanced Web Terminal",
     description:
       "An enhanced web-based terminal emulator with advanced filesystem, network capabilities, and a genuine Linux-like experience in your browser.",
-    image: "/assets/project2.png",
+    image: "/assets/project4.png",
     link: "https://webtermx.netlify.app/",
   },
-  {
-    id: 2,
-    title: "Stock Market Dashboard",
-    description:
-      "An interactive dashboard to monitor stock prices and market trends efficiently.",
-    image: "/assets/project1.png",
-    link: "#",
-  },
+{
+  id: 2,
+  title: "Lnky: OneLink Profile Generator",
+  description: "A URL-based link-in-bio platform that stores all profile data in the URL itself - no database required. Create customizable profile pages with social links and share them instantly.",
+  image: "/assets/project3.png",
+  link: "https://onelnky.netlify.app/",
+}
 ];
 
 export default function Projects() {
