@@ -1,6 +1,7 @@
 # Portfolio Website
 
 This is a personal portfolio website built using Vite+React, Tailwind CSS, and Framer Motion to showcase my skills, projects, and experience.
+[Link to portfolio](https://chaitanyajambhulkar.netlify.app/)
 
 ## Features
 - **Responsive Design** – Works on all screen sizes.
